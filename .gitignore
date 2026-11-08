@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Generated machine learning models
+artifacts/
+
+# Generated audit and parquet data
+data_parquet/
+
+# Local environment files
+.env
+.env.*
